@@ -21,7 +21,7 @@
 
 ### Link
 
-- Live Site URL: ![](http://127.0.0.1:5500/index.html)
+- Live Site URL: [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
 
 ## My process
 
@@ -43,7 +43,7 @@
 - Website - [Abraham Adegbolahan Adeyeye](https://hngx.zuriboard.com/user/profile/15155)
 - gitHub - [Bobbyxxxxx](https://github.com/Bobbyxxxxx)
 - Twitter - [AdeyeyeAbraham1](https://www.twitter.com/AdeyeyeAbraham1)
-- Email - [abrahamadeyeye1@gmail.com]
+- Email - [abrahamadeyeye1@gmail.com]()
 
 ## Acknowledgments
 shoutout to my mentors from HNG's slack community forum.
