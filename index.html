@@ -7,8 +7,25 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <section class="bioContainer"></section>
-    <section class="imgContainer"></section>
+    <div class="container">
+        <!-- Image section -->
+        <section class="imgContainer">
+            <img src="https://ca.slack-edge.com/T05FFAA91JP-U05RG8CEJR4-7e825464afa7-512" alt="" data-testid="slackDisplayImage">
+        </section>
+        <!-- Bio/Info section -->
+        <section class="bioContainer">
+            <ul>
+                <li>user name: <span class="userName"  data-testid="slackUserName"></span></li>
+                <li>Track: <span data-testid="myTrack"></span></li>
+                <li>GitHub URL: <span class="link" data-testid="githubURL"></span> </li>
+                <li>current Day Of The Week: <span data-testid="currentDayOfTheWeek"></span></li>
+                <li>current UTC Time: <span data-testid="currentUTCTime"></span></li>
+            </ul>
+        </section>
+    
+       
+    </div>
+
     <script src="app.js"></script>
 </body>
 </html>
